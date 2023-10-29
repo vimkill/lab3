@@ -1,0 +1,24 @@
+When working with: ['Account_Balance', 'Duration_of_Credit_monthly', 'Payment_Status_of_Previous_Credit', 'Length_of_current_employment'] 
+ Maximum value Roc_Auc: 0.7904394576905096 
+ On iteration: 16 
+ 
+When working with: ['Account_Balance', 'Duration_of_Credit_monthly', 'Payment_Status_of_Previous_Credit', 'Length_of_current_employment'] 
+ Maximum value Roc_Auc: 0.7925432445067789 
+ On iteration: 17 
+ 
+When working with: ['Account_Balance', 'Duration_of_Credit_monthly', 'Payment_Status_of_Previous_Credit', 'Guarantors'] 
+ Maximum value Roc_Auc: 0.7934782608695652 
+ On iteration: 25 
+ 
+When working with: ['Account_Balance', 'Duration_of_Credit_monthly', 'Payment_Status_of_Previous_Credit', 'Guarantors'] 
+ Maximum value Roc_Auc: 0.7937120149602618 
+ On iteration: 31 
+ 
+When working with: ['Account_Balance', 'Duration_of_Credit_monthly', 'Payment_Status_of_Previous_Credit', 'Most_valuable_available_asset'] 
+ Maximum value Roc_Auc: 0.7962833099579243 
+ On iteration: 10 
+ 
+When working with: ['Account_Balance', 'Duration_of_Credit_monthly', 'Payment_Status_of_Previous_Credit', 'Most_valuable_available_asset'] 
+ Maximum value Roc_Auc: 0.8020102851799906 
+ On iteration: 11 
+ 
